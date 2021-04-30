@@ -1,0 +1,22 @@
+{
+  "name": "create-a-local-server-using-node.js-and-express",
+  "version": "1.0.0",
+  "description": "this is a project following a Udemy course",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PLW0101/Create-a-local-server-using-Node.js-and-Express.git"
+  },
+  "author": "Pei-Ling Wu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PLW0101/Create-a-local-server-using-Node.js-and-Express/issues"
+  },
+  "homepage": "https://github.com/PLW0101/Create-a-local-server-using-Node.js-and-Express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
